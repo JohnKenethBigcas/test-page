@@ -1,1 +1,10 @@
+# basic options
+author: John
+email: test@gmail.com
+description: This is a test description
+github_username: JohnKenethBigcas
 theme: jekyll-theme-minimal
+
+# Build Settings
+markdown: Kramdown
+title: My sample site
