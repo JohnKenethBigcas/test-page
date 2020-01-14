@@ -3,7 +3,7 @@ author: John
 email: test@gmail.com
 description: This is a test description
 github_username: JohnKenethBigcas
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 # Build Settings
 markdown: Kramdown
